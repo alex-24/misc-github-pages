@@ -36767,7 +36767,7 @@ $0(){this.a.d=J.cX(this.b)},
 $S:0}
 A.a1Y.prototype={
 $1(a){var s=null
-return new A.mF(A.a_(0,0,0,0),8,A.y4(A.a69(A.a([A.a6e(s,new A.rx(B.vl,new A.a1X(a),s),B.ci,s,200,s,s,200)],t.E),B.dp),s,s),s)},
+return new A.mF(A.a_(0,0,0,0),8,A.y4(A.a69(A.a([A.a6e(s,new A.rx(B.vl,new A.a1X(a),s),B.ci,s,500,s,s,500)],t.E),B.dp),s,s),s)},
 $S:123}
 A.a1X.prototype={
 $1(a){A.rO(this.a,!1).G6(A.aky(a.a))},
